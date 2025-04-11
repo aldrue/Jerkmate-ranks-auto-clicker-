@@ -1,6 +1,7 @@
-# Jerkmate-ranks-auto-clicker-
-Use this script to automatically click the screen every 1 millisecond
+⚠️ Project Retired
 
-how to use
+This project has officially been retired and is no longer maintained.
 
-go to file and enable permission to execuite
+Due to unforeseen circumstances, the original source code and history were deleted, and I no longer have access to the previous versions. As a result, this repository will remain archived for reference only.
+
+Thank you to everyone who supported or used this project while it was active.
